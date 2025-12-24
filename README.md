@@ -73,9 +73,10 @@ int main() {
 ```
 
 <h2>Схема</h2>
-<img width="338" height="680" alt="image" src="https://github.com/user-attachments/assets/beceaf2c-ea38-410a-9536-12559baa60ea" /><br>
-<img width="338" height="411" alt="image" src="https://github.com/user-attachments/assets/e5379f42-5c09-4b42-8c93-e42aea6a6bb0" /><br>
-<img width="338" height="683" alt="image" src="https://github.com/user-attachments/assets/b358aa88-e77d-4a2d-a1d5-2574e8bdc417" /><br>
+<img width="363" height="713" alt="image" src="https://github.com/user-attachments/assets/877d3b0d-acb1-4042-920e-da30054052c9" /><br>
+<img width="362" height="779" alt="image" src="https://github.com/user-attachments/assets/7b6c2f23-2ced-47aa-8698-99b8a2a2e5ae" /><br>
+<img width="363" height="182" alt="image" src="https://github.com/user-attachments/assets/936956ed-48e6-4265-b98d-07413961751a" />
+
 
 <h2>Консоль</h2>
 <img width="538" height="509" alt="image" src="https://github.com/user-attachments/assets/edcc48bc-b273-431a-8100-e8141809365a" /><br>
